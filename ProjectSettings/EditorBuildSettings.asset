@@ -6,12 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/PingPong.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: 0ade692e6c2486a49b8ab3863731a187
   - enabled: 1
+    path: Assets/Scenes/PingPong.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
     path: Assets/Scenes/HorseRacing.unity
     guid: 688f6c13a53575d45b46518d91dbb40d
+  - enabled: 1
+    path: Assets/Scenes/Painting.unity
+    guid: eb799fd3caf742647873037190799519
   m_configObjects: {}
